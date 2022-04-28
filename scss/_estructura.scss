@@ -1,0 +1,30 @@
+/*ESTRUCTURA*/
+
+// SERVICIOS EMPRESARIALES //
+.container1{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+   
+}
+
+//QUIENES SOMOS//
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    
+}
+//UBICACION//
+.direccion{
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 15px;
+}

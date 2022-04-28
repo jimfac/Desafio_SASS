@@ -1,0 +1,71 @@
+/*TIPOGRAFIA*/
+
+//VARIABLES//
+$green:rgb(2, 69, 71);
+$bordo:rgb(65, 1, 14);
+
+//INDEX//
+.empresa{
+    padding-bottom: 400px; 
+}
+//SERVICIOS EMPRESARIALES//
+.titulo-se{
+    text-align: center;
+    font-family:  Helvetica, sans-serif;
+    font-weight:bold;
+    color: $green;
+}
+//QUIENES SOMOS//
+.lema{
+    color: $green;
+    font-weight:bold;
+}
+
+.descripcion{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-style:normal;
+    color:$bordo;
+    text-align:center;
+    font-weight:bold;
+}
+//CONTACTANOS//
+
+.contacto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1,5rem;
+    font-style: inherit;
+    color: $green;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 15px;     
+}
+
+.contacto-web{
+    border: 1px solid grey;
+    margin-top:0px;
+    margin-left: 400px;
+    margin-bottom:0;
+    padding: 10px;
+    width: max-content;
+    text-align: justify;
+    background-color: snow;
+    
+}
+.datos {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1,5rem;
+    font-weight: bold;
+    margin-top: 10px;  
+}
+
+//UBICACION//
+.ubicacion {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    color: $green;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
